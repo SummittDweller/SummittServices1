@@ -1,0 +1,28 @@
+{
+    "name": "summittdweller/summittservices1",
+    "description": "Drupal 7 Artisteer custom theme for admin.SummittServices.com",
+    "type": "drupal-custom-theme",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Mark A. McFate",
+            "role": "Creator"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/7"
+        }
+    ],
+    "package": {
+        "name": "summittservices1",
+        "version": "dev-master",
+        "type":"drupal-custom-theme",
+        "source": {
+            "url": "https://github.com/SummittDweller/summittservices1.git",
+            "type": "git",
+            "reference": "master"
+        }
+    }
+}
